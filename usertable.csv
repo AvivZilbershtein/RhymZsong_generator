@@ -1,0 +1,10 @@
+users,passwords,id,line_repetition,randomness,max_line,min_line
+adi,1,0,0.5,0.5,4,3
+Aviv,asdf,1,0.65,0.35,4,2
+eefus,aaaaaaaaaa,2,1.0,0.0,6,3
+bilbothemelech,shira123,3,0.25,0.63,6,3
+Ayala,!@!@,4,0.5,0.5,6,3
+itai,jjjj,5,0.15,0.16,4,2
+Tomer,memelord,6,1.0,1.0,3,1
+Tami,3333,7,0.0,0.5,8,6
+madmachist,8675643,8,0.68,0.29,4,2

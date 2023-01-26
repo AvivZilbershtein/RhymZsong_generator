@@ -1,0 +1,11 @@
+request,response
+"write a Poem in the Country genre about a pokemon in the context of  with only 5 lines, where the max length of a line is 3.0 words and the minimum length is 1.0 words","Pikachu,
+Cute and small.
+Electric type, 
+Powerful and tall. 
+Chu!"
+"write a Poem in the Country genre about a pokemon in the context of  with only 5 lines, where the max length of a line is 3.0 words and the minimum length is 1.0 words","Pikachu,
+Cute and bright.
+Electric type, 
+A joy to fight. 
+Chu!"
