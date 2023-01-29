@@ -9,12 +9,6 @@ RhymZ allows a signed in user to:
 ### To use the code do the following:
 1. Clone the repository with git to your working directory or download a zip file which will cointain a folder. If you chose the second option make sure the path of your working directory ends with `/<name_of_zipped_folder>`
 2. In the directory you're using our code write the `pip install -r requirements.txt` in the terminal
-##### IMPORTANT NOTE
-If you already have pillow and pandas, and your python version is over 3.8 than only do the following commands to the terminal:
-`pip install streamlit`
-`pip install streamlit-option-menu`
-`pip install openai`
-
 
 3. Have a working account of openai and in the `request.py` file, on `line 4`, insert your api key as a string:
 `PRIVATE_API_KEY = "<your_api_key>"`
