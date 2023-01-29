@@ -7,7 +7,8 @@ RhymZ allows a signed in user to:
 3. Publish their songs to the `Gallery` page- a public spotlight for all aspiring songwriters to see and get inspiration from other users
 4. Change hyperparameters of the GPT-3 in the `Preferences` page for extra control and customizability
 ### To use the code do the following:
-1. In the directory you're using our code write the `pip install -r requirements.txt` in the terminal
+1. Clone the repository with git to your working directory or download a zip file which will cointain a folder. If you chose the second option make sure the path of your working directory ends with `/<name_of_zipped_folder>`
+2. In the directory you're using our code write the `pip install -r requirements.txt` in the terminal
 ##### IMPORTANT NOTE
 If you already have pillow and pandas, and your python version is over 3.8 than only do the following commands to the terminal:
 `pip install streamlit`
@@ -15,8 +16,8 @@ If you already have pillow and pandas, and your python version is over 3.8 than 
 `pip install openai`
 
 
-2. Have a working account of openai and in the `request.py` file, on `line 4`, insert your api key as a string:
+3. Have a working account of openai and in the `request.py` file, on `line 4`, insert your api key as a string:
 `PRIVATE_API_KEY = "<your_api_key>"`
-3. In the directory you're using our code write the `streamlit run home_page.py` in the terminal. You will get local and network URL's and will be directed to RhymZ
+4. In the directory you're using our code write the `streamlit run home_page.py` in the terminal. You will get local and network URL's and will be directed to RhymZ
 
 
